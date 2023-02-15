@@ -1,6 +1,6 @@
 # database_ex
 
-A new Flutter project.
+This is a simple personal project made to study Rest API calls on Flutter. The .apk file of this project can be found under build\app\outputs\flutter-apk\app-release.apk
 
 ## Getting Started
 
